@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "RCS Workshop I: The Unix Shell"
+title: "BIOL5526: The Unix Shell"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: ryan.taylor@carleton.ca
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

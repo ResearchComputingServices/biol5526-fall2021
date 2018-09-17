@@ -9,10 +9,12 @@ permalink: /setup/
 You need to download some files to follow this lesson:
 
 1. Download [shell-novice-data.zip]({{ page.root }}/data/shell-novice-data.zip) and move the file to your Desktop.
-2. Unzip/extract the file (ask your instructor if you need help with this step). You should end up with a new folder called data-shell on your Desktop.
+2. Unzip/extract shell-novice-data.zip (ask your instructor if you need help with this step). You should end up with a new folder called data-shell on your Desktop.
+3. Download [remote-data.zip]({{ page.root }}/data/remote-data.zip), but do not unzip it.  Using Safari on a Mac, hold down Option while clicking this download to avoid unzipping it.
 
-In the lesson, you will find out how to access the data in this folder.
+## Connecting to Carleton's VPN
 
+To be able to connect to the RCDC from your laptop (using wifi) or from outside of campus, you will need to connect to Carleton's VPN. Full instructions on how to do this can be found [here](https://carleton.ca/its/help-centre/remote-access/). 
 
 ## Installing Linux terminal software
 
@@ -29,3 +31,4 @@ Once you have gotten to this point you are ready to participate in the lesson.
 ### Mac Users
 
 To open a terminal window on a Mac, navigate to Applications/Utilities and open Terminal. Once you have reached this stage you are ready to participate in the lesson. 
+

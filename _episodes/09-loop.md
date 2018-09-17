@@ -1,5 +1,5 @@
 ---
-title: "Loops"
+title: "(OPTIONAL) Loops"
 teaching: 30
 exercises: 0
 questions:

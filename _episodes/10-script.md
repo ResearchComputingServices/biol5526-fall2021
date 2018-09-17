@@ -1,5 +1,5 @@
 ---
-title: "Shell Scripts"
+title: "(OPTIONAL) Shell Scripts"
 teaching: 30
 exercises: 0
 questions:

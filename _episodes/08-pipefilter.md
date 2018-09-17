@@ -1,5 +1,5 @@
 ---
-title: "Pipes and Filters"
+title: "(OPTIONAL) Pipes and Filters"
 teaching: 30
 exercises: 0
 questions:

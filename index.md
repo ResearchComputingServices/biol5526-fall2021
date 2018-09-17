@@ -5,7 +5,7 @@ root: .
 
 The Unix shell has been around longer than most of its users have been alive. It has survived so long because it's a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren't typing the same things over and over again.
 
-As well, researchers often find themselves confronted with large amounts of data to process or large simulations to run.  These sorts of problems can take more time and computer hardware than is readily available on personal computers  Use of the shell is fundamental to using a wide range of other powerful tools  and computing resources (including "high-performance computing" supercomputers).
+As well, researchers often find themselves confronted with large amounts of data to process or large simulations to run.  These sorts of problems can take more time and computer hardware than is readily available on personal computers.  Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including "high-performance computing" supercomputers).
 
 These lessons will start you on a path towards using the Linux shell and remote Linux servers effectively.
 

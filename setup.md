@@ -10,7 +10,7 @@ You need to download some files to follow this lesson:
 
 1. Download [shell-novice-data.zip]({{ page.root }}/data/shell-novice-data.zip) and move the file to your Desktop.
 2. Unzip/extract shell-novice-data.zip (ask your instructor if you need help with this step). You should end up with a new folder called data-shell on your Desktop.
-3. Download [remote-data.zip]({{ page.root }}/data/remote-data.zip), but do not unzip it.  Using Safari on a Mac, hold down Option while clicking this download to avoid unzipping it.
+3. Download [remote-data.zip]({{ page.root }}/data/remote-data.zip) and move the file to your Desktop, but do not unzip it.  Using Safari on a Mac, hold down the Option key while clicking this download to avoid unzipping it.
 
 ## Connecting to Carleton's VPN
 

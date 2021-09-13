@@ -106,7 +106,7 @@ To do this yourself, you would need to replace "jane" with your username, and "1
 If you have a direct link to a web file, then you can also just directly download it to the server.  The command to do this is called `wget`.  So instead of downloading the data.zip file to your own computer and then copying it to the server:
 
 ~~~
-server$ wget {{ page.root }}/data/remote-data.zip
+server$ wget https://researchcomputingservices.github.io/biol5526-fall2021/data/remote-data.zip
 ~~~
 {: .bash}
 

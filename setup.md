@@ -30,5 +30,5 @@ Once you have gotten to this point you are ready to participate in the lesson.
 
 ### Mac Users
 
-To open a terminal window on a Mac, navigate to Applications/Utilities and open Terminal. Once you have reached this stage you are ready to participate in the lesson. 
+To open a terminal window on a Mac, navigate to Applications/Utilities and open Terminal. For a Mac computer running macOS Catalina or later releases, the Terminal's default Unix Shell is Zsh. In this case, type `bash` and press enter to switch to the the bash shell. Once you have reached this stage you are ready to participate in the lesson. 
 
